@@ -316,7 +316,7 @@ main a:hover {
 	}
 	.hero.home-page .hero__container {
 		background-color: #1a2340;
-		background-image: linear-gradient(to right, #1a2340, #06162f)
+		background-image: linear-gradient(to right, #1a2340, #06162f);
 	}
 
 	.hero.webdesign {
@@ -326,7 +326,7 @@ main a:hover {
 	}
 	.hero.webdesign .hero__container {
 		background-color: #333043;
-		background-image: linear-gradient(to right, #333043, #414143)
+		background-image: linear-gradient(to right, #333043, #414143);
 	}
 
 	.hero.contact {
@@ -336,7 +336,7 @@ main a:hover {
 	}
 	.hero.contact .hero__container {
 		background-color: #332c1a;
-		background-image: linear-gradient(to right, #332c1a, #807d6c)
+		background-image: linear-gradient(to right, #332c1a, #807d6c);
 	}
 
 	.hero.blog {
@@ -356,7 +356,7 @@ main a:hover {
 	}
 	.hero.graphics .hero__container {
 		background-color: #19223f;
-		background-image: linear-gradient(to right, #19223f, #dc3033)
+		background-image: linear-gradient(to right, #19223f, #dc3033);
 	}
 
 	.hero__text {
