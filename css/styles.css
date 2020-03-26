@@ -315,6 +315,7 @@ main a:hover {
 		background-color: #1a2340;
 	}
 	.hero.home-page .hero__container {
+		background-color: #1a2340;
 		background-image: linear-gradient(to right, #1a2340, #06162f)
 	}
 
