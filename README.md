@@ -1,4 +1,4 @@
-_Alice & Bob_ is a __fictional site__ created as the final project for a [series of articles about Web development on ThePracticalDEV](https://dev.to/ziizium/frontend-development-zero-to-hero-j0j)
+_[Alice & Bob](https://ziizium.github.io/aliceandbob)_ is a __fictional design studio__ created as the final project for a [series of articles about Web development on ThePracticalDEV](https://dev.to/ziizium/frontend-development-zero-to-hero-j0j)
 
 # Tools used
 The site is coded in <abbr title="Hypertext Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr>. All images are freely usable images from:
