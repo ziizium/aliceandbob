@@ -9,4 +9,4 @@ The site is coded in <abbr title="Hypertext Markup Language">HTML</abbr> and <ab
 Icons used on the homepage are from [iconfinder](https://www.iconfinder.com/) and social media icons are from [Font Awesome](https://fontawesome.com/).
 
 ## Other projects
-The secobd design of [my personal website](https://ziizium.github.io) is a modified version of this project.
+The second design of [my personal website](https://ziizium.github.io) is a modified version of this project.
